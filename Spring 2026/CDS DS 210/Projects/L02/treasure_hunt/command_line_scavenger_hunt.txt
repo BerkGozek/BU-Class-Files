@@ -1,0 +1,14 @@
+name
+Berk Gozek
+
+whoami
+berkgozek
+
+hostname
+crc-dot1x-nat-10-239-142-99.bu.edu
+
+pwd
+/Users/berkgozek/Documents/BU-Class-Files/Spring 2026/CDS DS 210/Projects/treasure_hunt
+
+echo $HOME
+/Users/berkgozek

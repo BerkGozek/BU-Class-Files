@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "19c4cb850fae60a7",
+    "id": "581fc04de29916cf",
     "type": "split",
     "children": [
       {
-        "id": "cf920d446a506f80",
+        "id": "86b4d58657b2a901",
         "type": "tabs",
         "children": [
           {
-            "id": "34cd1d3abed499ee",
+            "id": "e08c122d11ce3062",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Module 1/Topic 1/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d8290b6390d680f1",
+    "id": "a7554272ead2aeec",
     "type": "split",
     "children": [
       {
-        "id": "41baebbe712451d2",
+        "id": "46995e08bf5c1432",
         "type": "tabs",
         "children": [
           {
-            "id": "bab1a5ad7e9a2a4b",
+            "id": "dfbe513c594b1e3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "112a99a5c1bf839c",
+            "id": "193a48e07cdd7f8f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "1eddee844e61e4ba",
+            "id": "ee022c9df0f02058",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b8d745106031080f",
+    "id": "e8bcce1f878faa1b",
     "type": "split",
     "children": [
       {
-        "id": "7904d7c5b6882260",
+        "id": "04d7d9bb93c0317f",
         "type": "tabs",
         "children": [
           {
-            "id": "cf0ca09d2cb8de93",
+            "id": "dddb31097ae99832",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Navigation Point.md",
+                "file": "Module 1/Topic 1/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Main Navigation Point"
+              "title": "Backlinks for Lecture 1"
             }
           },
           {
-            "id": "28a3902fcd034fbc",
+            "id": "bf647d60c69e3624",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Navigation Point.md",
+                "file": "Module 1/Topic 1/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Main Navigation Point"
+              "title": "Outgoing links from Lecture 1"
             }
           },
           {
-            "id": "7b009c287ac983b8",
+            "id": "08eef4ae8369c854",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "da009098cd8f2dc9",
+            "id": "be0b9b29e8029fe6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +151,18 @@
             }
           },
           {
-            "id": "1a177e61eba378e4",
+            "id": "f13a8c5997538003",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Navigation Point.md",
+                "file": "Module 1/Topic 1/Lecture 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main Navigation Point"
+              "title": "Outline of Lecture 1"
             }
           }
         ]
@@ -179,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "34cd1d3abed499ee",
+  "active": "e08c122d11ce3062",
   "lastOpenFiles": [
-    "Main Navigation Point.md",
-    "Module 1 Notes.md",
-    "Untitled"
+    "Module 1/Topic 1/Lecture 1.md",
+    "Module 1/Topic 1",
+    "Module 1"
   ]
 }

@@ -1,0 +1,53 @@
+bandit.labs.overthewire.org
+
+Level: 0
+Commands used:
+    ls # to see what files are available
+    cat readme
+Password found: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+motd line:      ,----..            ,----,          .---.
+
+Level: 1
+Commands used:
+    ls
+    cat ./-
+Password found: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+motd line:     /   /   \         ,/   .`|         /. ./|
+
+Level: 2
+Commands used:
+    ls
+    cat ./'--spaces in this filename--'
+Password found: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+motd line:    /   .     :      ,`   .'  :     .--'.  ' ;
+
+Level: 3
+Commands used:
+    ls
+    cd inhere
+    ls -all
+    cat ...Hiding-From-You
+Password found: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+motd line:   .   /   ;.  \   ;    ;     /    /__./ \ : |
+
+Level: 4
+Commands used:
+    ls
+    cd inhere
+    ls -all
+    list ./*
+    cat ./-file07
+Password found: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+motd line:  .   ;   /  ` ; .'___,/    ,' .--'.  '   \' .
+
+Level: 5
+Commands used:
+    ls
+    cd inhere
+    ls -all
+    file . -type f -size 1033c
+    cd maybehere07
+    cat .file2
+Password found: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+motd line:  ;   |  ; \ ; | |    :     | /___/ \ |    ' '
+

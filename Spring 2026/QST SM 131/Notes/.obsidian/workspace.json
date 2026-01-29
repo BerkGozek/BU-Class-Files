@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86b4d58657b2a901",
+        "id": "487a2b8c104b7c73",
         "type": "tabs",
         "children": [
           {
-            "id": "e08c122d11ce3062",
+            "id": "b96a657d1b9727eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e08c122d11ce3062",
+  "active": "b96a657d1b9727eb",
   "lastOpenFiles": [
     "Module 1/Topic 1/Lecture 1.md",
     "Module 1/Topic 1",

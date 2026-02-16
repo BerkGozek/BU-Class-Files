@@ -4,34 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "cf920d446a506f80",
+        "id": "3460d030234340e5",
         "type": "tabs",
         "children": [
           {
-            "id": "34cd1d3abed499ee",
+            "id": "17b5d34e00438a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HW 2.md",
+                "file": "Discussion 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW 2"
+              "title": "Discussion 3"
             }
           },
           {
-            "id": "e76b3d6c9ea2642b",
+            "id": "d789a435ced00f4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HW3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HW3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b8d745106031080f",
@@ -194,11 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "34cd1d3abed499ee",
+  "active": "d789a435ced00f4e",
   "lastOpenFiles": [
+    "Discussion 3.md",
+    "HW3.md",
+    "HW 2.md",
     "Pasted image 20260208140700.png",
     "Discussion 2.md",
-    "HW 2.md",
     "Module 1 Notes.md",
     "Main Navigation Point.md",
     "Untitled"

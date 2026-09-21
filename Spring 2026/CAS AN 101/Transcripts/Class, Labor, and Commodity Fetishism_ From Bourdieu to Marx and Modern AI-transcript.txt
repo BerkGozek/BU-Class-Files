@@ -1,0 +1,158 @@
+Class, Labor, and Commodity Fetishism: From Bourdieu to Marx and Modern AI
+Mar 30, 2026, 11:01 AM • 41 mins
+
+SUMMARY KEYWORDS
+Pierre Bourdieu, Raymond Carroll, social class, sports, commodity fetishism, Karl Marx, alienation, use value, exchange value, labor theory of value, AI systems, invisible labor, ethical consumption, traceable clothing, Anatomy of an AI System
+
+SPEAKERS
+Speaker 1, Speaker 2, Speaker 3, Speaker 4, Speaker 5, Speaker 6
+
+------------------------------------------------------------------------------------
+
+Speaker 1 • 00:00
+And so it is the kind of question that could be on the final. Does anyone remember, conversely, how silence is used, per Raymond Carroll, in French versus American Content? Excellent. So Raymond Carroll and people, students in the past have said, well, I don't know, completely legitimate limitations to raise, I think, to this argument. But her argument, which I think does hold some water, is that French people use silence to create distance. They don't stand in line with one another at the grocery store and chit chat in the way that Americans do. Americans, on the other hand, use silence actually as a way of indexing sometimes how close people are. If you think about this, there are probably a limited number of people that perhaps you or people that you know can actually be totally silent with. And so this is Carol's argument, right, about what speech does and also what silence does.
+
+Speaker 1 • 01:18
+And, and so this is the type of thing that you would want to have in mind for the final, something that we talked about in lecture. And so you'd want to look at specifically what we talked about in lecture and then go back to the article and look at how the author makes those particular arguments. I often highlight excerpts for you that I think are especially useful, but also themes and ideas. Does that make sense? Okay, great. So we're just going to spend a moment with revisiting Pierre Bourdieu. We ended on this point. I did want to highlight the take homes from our conversation with Bourgiou specifically about golf. And we saw this article on Friday from the Golf Science Journal. One of the main findings within the sociology of sport literature is that social class is the main predictor of sport and leisure behavior in both childhood and adulthood.
+
+Speaker 1 • 02:19
+However, scholars are careful to realize that socioeconomic factors are not the only relevant factors in obtaining a taste for golf. As Bourdieu has argued. The person that we read there are hidden entry requirements, including family socialization and early training. Golf has been used as a vehicle by the upper classes to detach themselves from from other classes and gain power and influence. So this is a place in the real world where Pierre Bourdieu, right, written about forty years ago, even longer actually, taste was written about fifty years ago where Bourgieu is showing up. And we didn't read this together, so I wanted to take a moment to read it with you. This is the place where I think Born Giro lays out very clearly what he sees as some of the primary differences between what he is describing as working class sports participation in nineteen sixties France and middle class or upper class, specifically upper class sports participation.
+
+Speaker 1 • 03:34
+All the Features which appeal to the dominant taste. So this would be the upper class taste. The dominant taste are combined in sports such as golf, tennis, sailing, riding or show jumping, skiing, fencing, practiced in exclusive places, private clubs at the time that one chooses, alone or with chosen partners. Features which contrast with the collective discipline, obligatory rhythms and imposed efforts of team sports connected with the working classes, demanding a relatively low physical exertion that is in any case freely determined, but a relatively high investment of time and learning. They, meaning upper class tastes and sports practices, give rise to highly ritualized competitions, governed beyond the rules by the unwritten laws of fair play, of a kind of gallantry. The sporting exchange takes on the air among the dominant class of a highly controlled social exchange, excluding all physical and verbal violence, all anomic use of the body, meaning wild gestures, and all forms of direct contact between the opponents.
+
+Speaker 1 • 04:46
+If you think about it, this is true, right? In golf, very minimal contact among the participants and each participant playing on their own. Thus, it can be seen that economic barriers, however great they may be, in the case of golf, skiing, sailing, or even riding and tennis, are not sufficient to explain the class distribution of these activities. There are more hidden entry requirements, such as family tradition, early training, or the obligatory manner of dress and behavior, and socializing techniques. So here we have a schema laid out between what Borgia call working class sports practices or sports practices attached to the working classes and sports practices attached to the upper classes or the dominant classes. I'd actually like us to take a moment before we shift to the second half of class, like you, just say hi to the people around you.
+
+Speaker 1 • 05:47
+What do you think of this? Does this make sense to you? And I'd like us to map out briefly what particular characteristics are associated with working class versus dominant class or upper class sporting practices. Take about thirty seconds, thirty seconds or a minute to have the people around us, and then I'm going to ask for your feedback.
+
+Speaker 2 • 06:46
+Wait, what was the question again? I have no clue.
+
+Speaker 3 • 07:35
+Hidden entry requirements.
+
+Speaker 1 • 08:03
+Okay, so I'm interested in hearing from you what characterizes working class sports per Pierre Bourdieu? What are some examples of working class sports? Or what does Pierre Rodrigo say we see in practices sports. Sporting practices associated with working classes? Yes, Absolutely. Physical contact. Absolutely. Excellent. Up close physical contact. Sometimes violence. Right? Kind of part of that. Physical contact. Excellent. Do people play by themselves? Do they play on teams? How does that schema work? Okay, let's take a vote. Do working. Who thinks that working class sports have an emphasis on the individual? Individual players, raise your hand. Who thinks it has an emphasis on team players. Okay, that is correct. So team. Right. Team players, Upper class individuals, and lack of physical contact. Okay. Also, we have here an anomic use of the body is excluded.
+
+Speaker 1 • 10:07
+It's not a lot of yelling, wild gestures. The body, Borgia would say, is more restricted in its movements. Okay, What about this part we see here that Borgia says family tradition is important. Socialization, having the right dress, knowing how to behave. Does that make sense to you? That there is a kind of vestmentary code, a way of carrying your body. That limits access to some of these upper class sports? Some of these sports tied to the dominant class. Yeah. So you're nodding. Can anyone give an example?
+
+Speaker 4 • 11:10
+Yeah.
+
+Speaker 2 • 11:12
+That you have to be able to
+
+Speaker 4 • 11:13
+afford, like the face masks, the clothes and the spear, whatever.
+
+Speaker 1 • 11:20
+Absolutely. Expensive equipment. And it's not equipment that's shared. Right. Because it's an individual sport, you have to buy your own clubs. You probably don't share them. They're based on how tall you are. Right. Other examples. Yeah.
+
+Speaker 3 • 11:42
+Well, also with like the expensive equipment, like an expensive location, whether that's like stuff like a country club or like a tennis sailing club.
+
+Speaker 1 • 11:52
+Absolutely. Expensive venue. And Bourdieu will say, often the places where working class sports are played are public places. And there is a high ability to improvise the kind of equipment and space that is needed. The initial investment is low. Okay, so this again is an example of what Pierre Borgio wants us to pay attention to, which is how the body moves in space and how the body and what it is able to do in space, what it is invited to do in space, what it imagines itself is capable of doing, imagines it is normal for it to do, how all of that is tied to class in ways that are sometimes very clear to us. If you've ever gone to, for example, a golf club, a country club, for example, and realize you're not wearing the correct clothing, you've been very aware of this. If you've ever realized or heard about someone realizing, again, on the theme of golf, that some clients in a business that you may be working for like to play golf and like to make business relationships over a game of golf, you would be aware of this.
+
+Speaker 1 • 13:29
+But if this is normal to you, it may be invisible to you as well. And so this is our final example from class on Friday. We talked about how people may learn particular sports, learn to use their bodies in particular ways, to do particular things with their bodies in order to increase their social mobility. Right. Cover their bodies in particular ways, wear particular clothing Learn to eat particular foods, my example with oysters, or learn to play particular sports. So our kind of summary slide from class on Friday was about again, taste is tied to class position. How one can also try to change one's preferences in a conscious way to change one's class position. And how then class, like race, is both assigned. It comes from the outside, it comes from this thing, this amorphous thing that we may call society. And it is also something that is chosen.
+
+Speaker 1 • 14:27
+And sometimes that we try to play with or transform. It can be a source of both oppression and a source of pride. We saw this last Wednesday with Susan Falls article on the demolition derby where we looked at cars that had been named, have been given the names associated with, with slurs against poor whites, for example, white trash. Okay, so we're going to shift the rest of class to talking about this very famous tract from the eighteen sixties from the book Capital, written by Karl Marx. Someone who died in the eighteen eighties and had a very long life afterwards has been taken up in different ways by different people. I'd like us to think about him today, not in relationship to how he is used or eschewed or embraced in the contemporary political moment, but actually thinking about him as a nineteenth century philosopher, a left Hegelian, someone who was concerned about these very big questions of human freedom and about the progress of history, if history was going in the right direction, if human beings are going to end up free or if they were going to end up living a oppressed and under tyranny.
+
+Speaker 1 • 15:46
+Karl Marx, German, very unconventional individual, interested in theology. He ended up doing a PhD in philosophy. His work is characterized, like many of the people that he was in conversation with, by very strong moral concerns. He was worried, is the world going in the right direction? And he was especially concerned about the new economic order that had arisen before the time of his writing. Right. So capitalism. He was also, it's worth noting, someone who had married above his class. And when he wrote his PhD thesis, he dedicated it to his wife's father. And so he was someone who was probably in his own life, very aware of class, of social class, of the consequences of the economic system in his own kind of personal relationships. And we've talked about, we talked about last week, specifically what Marx tells us about how he sees the class hierarchy and people's position and including his own position in it, and how he saw society, the time of his writing, as divided into two classes.
+
+Speaker 1 • 17:04
+So again, we've seen this before, but I'll just reiterate the class of the capitalist or the bourgeoisie. Those are the people who own the means of production, who do not need to sell their labor, sell their bodies, but own the means of reduction. Where other people labor, they purchase the labor of others. And then the other class that we have, the workers, also sometimes called the proletariat, which is the class that has to sell their labor, sell their time and sell their bodies, do not own the means of production. And so Marx, as we said last week, one of his moral concerns, again, he's invested in all these conversations about human freedom, about whether or not history is kind of moving, evolving towards something better or not. His big moral concern was the incompatibility of these two classes interests. One wants to extract surplus labor without paying more for it because they need to make a profit.
+
+Speaker 1 • 18:04
+And one group, right, would like to be paid for their labor and also would like to have an acceptable quality of life. And so Marx saw these two groups as in an irresolvable clash. And for this reason, this is what Marx is often known for today, was a popular idea at the time. Capitalism, Marx said, was ultimately unsustainable. And I did just want to mention Rosa Luxembourg, someone who I read in a course once on economic theory, and it's often discussed in term in relation to colonialism. She was actually executed in nineteen nineteen, but she was very interested in the relationship between capitalism and colonialism, something that we've talked about. She said capitalism, which relies on the extraction of raw materials, right? The raw materials that are used to make commodities, to make products. Capitalism relies on the extraction of raw materials from often unindustrialized places in the world, which are often in the colonies.
+
+Speaker 1 • 19:18
+And so she says, capitalism needs colonialism to exist. It needs the colonies to exist, and it needs this constant extraction order to self perpetuate. However, she says, again, this is the question they were all worried about. Can this go on? Where will this end up? She would say the extraction of raw material is not possible endlessly. And so capitalism is not eternal. There is a moment at which the system will collapse. In terms of what Marx is concerned about in the excerpt that we read for today, again in volume one of Capital, sometimes people call it Das capital. He's interested in this term commodity, which we're going to talk about, often described as something that can be bought and sold. And he's also interested in this term fetishism. We've seen this before, we're going to see it again. Fetishism is treating an object as if it exists on its own, like it is a God.
+
+Speaker 1 • 20:23
+This is often how, if you look at Wikipedia, I think this is how it defines fetishism. Treating something as if it were a God matters because we don't have to account where God came from. God just exists. And so fetishism means treating something as if it doesn't have an origin, it is just there. And so we have this very long quote from the opening of Capital, or from the. The opening of the section on commodity. Very famous excerpt. So I did want to highlight it for you. You will probably run into it again. What I think is important here is that Marx tells us it looks at the beginning like a commodity. Something that is bought and sold. The commodity is easy to understand. It actually seems very trivial. But in fact, this is often quoted. It is in reality a very queer thing, abounding in metaphysical subtleties and theological niceties. And so Marx tells us this commodity.
+
+Speaker 1 • 21:29
+Everybody thinks it doesn't matter, but in fact it has enormous meaning. It is actually a mystery. It seems to not be mysterious, but it is actually a mystery. And so Marx gives us a number of terms that I wanted to define for you. If you see them again, which I imagine you probably will, I'd like you to have a grasp of them, not be intimidated by them. Marx is hard to read, but his ideas, once you figure them out, are actually not that hard to understand. And he becomes much easier to read the more that you read him. So a commodity, he says, is an object outside of us. A thing that justifies human wants of some sort or another. So again, something that is bought or sold. Right? Use value. He uses this term in the excerpt that you read. You might have found it confusing. A use value is basically something that is useful to us because we use it, because it does something for us.
+
+Speaker 1 • 22:47
+A house, a coat, a walking stick, also air. Use value. Things that have use value can also be things that are not sold. And Marx is very careful to tell us that. He tells us the use value is different from the exchange value. The exchange value is when commodities on a marketplace are exchanged against one another. They may acquire value and produce surplus value or profit in relation to one another and in relation to a third factor, money. And Marx is very well known for his labor theory of value, which we're also going to think a little bit about today. All commodities, he writes, are merely definite quantities of congealed labor times which are then valued on the market and sometimes which result in profit. Meaning that some labor somewhere has to sometimes end up devalued, unpaid, or underpaid. Here's an example of what he means by congealed labor times.
+
+Speaker 1 • 23:56
+In the production of the linen coat, he writes, human labor power in the shape of tailoring, gathering linen and transforming it into a coat must have actually been expended. Human labor is therefore accumulated in the linen coat. In this aspect, the coat is a depository of value. But though worn to a thread, it does not let this fact show through. And so what Marx is pointing to is that all of these objects that we use in our everyday life have in them congealed human labor, have hours of different kinds of human labor at different moments. The creation of the product, the accumulation of the resources that made it, the transportation of the object to where we are, for example. But this human labor, he says, is often invisible to us. And this is what he finds concerning a commodity, Marx writes, is that better but easier to see? A commodity, Marx writes, is therefore a mysterious thing simply because in it, the social character of men's labor appears to them as an objective character stamped upon the product of that labor.
+
+Speaker 1 • 25:24
+Because the relation of the producers to the sum total of their own labor is presented to them as a social relation, existing not between themselves, but between the products of their labor. Again, this exchange value, right? Goods acquire value on the market in relation to one another, not necessarily in relation to the labor itself. This is the reason why the products of labor become commodities, social things whose qualities are at the same time perceptible and imperceptible by the senses. With commodities. There's a definite social relation between men that assumes in their eyes, the fantastic form of a relation between things. It's a very famous excerpt. I think it's a little bit hard to understand. I'm going to show you how a youtuber who is very interested in fashion and took a stab at explaining this explains it. I think he does an excellent job.
+
+Speaker 1 • 26:26
+So we are going to watch him thinking again about what Marx is saying here, about how men's labor appears to them not as a relationship among people, but as a relationship, in fact, among things in which their labor is congealed.
+
+Speaker 4 • 26:58
+But what is there really to explain? Well, one important thing to note is that the changes that the material things around you that makes your life possible, your stove, your shoes, your bed, and everything else in your life for that matter, Practically all of this stuff was cultivated, produced, and manufactured somewhere else. And you have no idea where that is. Usually this stuff was brought into existence by someone else. And you have no idea who these people are. You have no relations to them. You have no Clue where they came from, where they were born, who they are. Nothing. Completely blank. Consumers like you and me are fundamentally alienated from the creative process of everything that they purchase, even items that perform a specific function in your lives. Since we no longer have to actually make the stuff that we use every day, we don't ever have to consider all of the other people, all of the expertise, all of the design process to make those Armani jeans or the making of your cool archive clothing a reality.
+
+Speaker 4 • 27:47
+What I'm really trying to get at here is that a lot of things have been alienated from us, from the design process to the production process to where it's made, who made it, how it was constructed. Like, all these things we don't think about. And it's something that we really do have to, like, really, really think about and realize how these things have come to existence because we're so alienated from the production process of things that we just kind of buy it. It's a.
+
+Speaker 1 • 28:16
+Okay, so we see here this. He is converted. He has been converted by reading about commodity fetishism. He's using the words, right? He's saying we're alienated from the processes. This is often called the social relations of production. That means basically the people who make the things that we use. He says we're so alienated from them, we don't know where they come from. The labor that is congealed in, for example, the chairs that you are sitting in, that labor is invisible to us. Marx would say that is a problem. It's interesting this youtuber says now that we no longer make everything that we use. I think it's been a very, very long time since we've, at least in the place where this youtuber is operating out of North America. It's been a very long time since people have made every single thing that they use. But I. But what Marx would say and what he says elsewhere in Capital is in the past, we often knew many of the people who made the things that we use, and we often.
+
+Speaker 1 • 29:17
+This is in relation to Susan Falls article from last Wednesday. We often made things and sold them to other people and also could buy the things that we participated in making. Susan Falls says many people who participate in the contemporary demolition derby cannot buy the cars that they make in the factories where they work. And so that is also, Marx Vitalis, a form of alienation. The inability to see the social relations that make up the products that we use. And. And also an inability to make something and then sell it yourself to other people. Even Mark says at one point, make it from beginning to end. He's very into that, making an entire product. He's concerned about the kind of moral and psychological costs of assembly line work. And he says also many people, like Susan Falls says one hundred years later, over one hundred years later, make things that they cannot buy.
+
+Speaker 1 • 30:17
+And that, Mark says, seems also to be a concerning form of alienation. And watch one more video from this youtuber.
+
+Speaker 4 • 30:26
+What we experience is a finished product sitting on the shelf. Which means that we don't necessarily see the witchcraft that went into making these things that we're buying. We don't know anything about the people that made it. And we aren't thinking about all the complex social agreements that determine the things value. On the surface level, when we buy a pair of shoes, we just think, hey, I'm buying a nice pair of shoes right now. And the shoes that you're buying are these clothes, cool panda dunks that you're going to be going crazy on them with all these outfits that you're going to be wearing with them. But we're not thinking, wow, I can't wait to go home and wrap my feet in this symbolic representation of social relations and abstract labor. No, in practice we just don't think that like that's crazy. I think that's just way beyond a lot of people's thought process.
+
+Speaker 4 • 31:02
+Right? We just think they're awesome shoes and you can't just wait to wear them. This is commodity fetishism though, because as consumers we're so separated from the complex production and complex social position positioning of the stuff we buy. We are forced to confer qualities that are determined socially onto the commodities themselves. In practice, we start to think that the things themselves are special, not that they merely appear special socially. Social appearance means more to us about something's value than the material it was made out of. Delusion matters more to us than the truth. The exchange value of an item in the marketplace matters more to us than anything to do with how useful it is to us and when.
+
+Speaker 1 • 31:38
+Okay, so we have a very interesting quote here. We start to see that things. Look, we start to see things as special in themselves and not as special socially. This is also part of the fetishism, right? The scene of things, of commodities, as if they exist in themselves. And the inability to see the social relations that make some things much more valuable than others, not because of the material that went into them, but because, for example, a celebrity sponsored or collaborated on the production of a shoe. This is the example that he's Interested in here? Okay, so I'd like us then to resummarize for you commodity fetishism. Then I'd like us to do an example, to look at an example together in regards to AI. So commodity fetishism, treating commodities again as if they exist on their own, as if they have. You'll hear this if you take a philosophy class in ontological existence.
+
+Speaker 1 • 32:49
+It basically just means that they exist on their own. Where they come from, irrelevant, doesn't matter. They didn't come from anywhere. Commodity fetishism misses as a result that commodities are the result of human labor and specifically relationships of labor, or what philosophers writing the tradition of Marx call the social relations of labor. This labor becomes invisible. It is contained in the object in which it is congealed. But then that object somehow effaces or erases it. And this is concerning for Marx. You heard this from the youtuber fashion elitist, because it alienates people from one another and it obscures unequal relations of production. It obscures the extraction of labor that is uncompensated or that is poorly compensated. Value does not go to the laborer. And Marx sees this as morally dangerous. Of course, the world that he was writing in, the nineteenth century world, radically different from our world today.
+
+Speaker 1 • 34:00
+But in many ways the relations we could argue have simply reached different heights. The unequal relations of productions of production, an idea that is also of course debated and contested. But the structure that Marx is identifying is one that I think is clearly continuous. Okay, so let's take a moment to look at some examples. So very. This is a famous chart anatomy of an AI system. Like you all to take a moment, you can look at this on your computer if you Google Anatomy system. It's also linked from our PDF for class today. And I'd like you to just look at and talk with the people around you about the type of work that goes into the AI tools that we use. What types of labor you see. And thinking in the vein of Marx and the lefticaliens, the nineteenth century philosophers who were concerned about these questions, what moral risks might someone consider?
+
+Speaker 1 • 35:05
+Just take about a minute or two to do this and then I'm interested in hearing from you.
+
+Speaker 2 • 35:14
+Okay, First of all,
+
+Speaker 1 • 35:42
+If anyone's not able to find the map, please let me know. Most of you have found it. Did you just Google anatomy of the AI map? Yeah,
+
+Speaker 2 • 36:49
+I mean making like an AI is like raising a baby basically because they, they don't know anything outside. And if you feed it the wrong information, they're just gonna go like south immediately. So. I mean, until like open AI got like chatgpt, like current models, they had to like purge like many other. Because they like went, you know, based or like, I don't know, racist or like other stuff basically until they got like a semi, non, partial model.
+
+Speaker 1 • 37:40
+Okay, so what does this map show us? It's an attempt to kind of lay bear what nineteenth century philosophers would call. Right. The congealed kind of human labor. Also resources. Yeah.
+
+Speaker 5 • 38:06
+And it will cause the programmers to work, overload longer time and always work night to their healthy, healthy body and mental health problem. And also that a lot of energy. That a lot of.
+
+Speaker 1 • 38:36
+Super interesting. So human labor also use laboring. Humans sometimes have to labor for long periods of time. And so very interesting comment. Also on the housing. Right. Construction of housing, sometimes for people. Also construction of data centers. Super interesting. So you have kind of this physical space aspect. Other things that you noticed. Yeah.
+
+Speaker 6 • 39:03
+Zada is gathered from people because obviously the AI needs to process, you know, for the training set. A lot of texts, you know, so much, you know, whatever kind of content is, you know, visual material content. Often, you know, this people talk about privacy, about control over this. You know, people who, you know, for instance, artists, people who draw things, whether it's okay to use their work to train an AI. So that's the way in which labor might be.
+
+Speaker 1 • 39:32
+Exceptionally interesting point. Right. The human labor that AI draws upon. Absolutely. Is often in made invisible. This is something that artists, as you just mentioned, have taken issue with. Screenwriters, for example, have taken serious issue with this. This was a major kind of sticking point in some of the contract negotiations recently among screenwriters and Hollywood. For instance, in the United States, it's also an extraction of rare earth minerals. Right. There is also the need to extract rare earth minerals, to transport them. Right. To transform them. So we see here the many kind of different layers of human labor of relations, social relations of labor that come into play. I did just want to finish by mention mentioning to you how some people have tried to make these social relations of labor visible. Some of you may have shopped at Everlane, Everlane, one of a number of stores that does this, tried to have transparent pricing.
+
+Speaker 1 • 40:41
+There's also something called traceable clothing. Very interesting. Where your garment has a story. You can see here a person holding a sign, I know who made my clothes. Which kind of alleviates this kind of feeling potentially of moral concern about the elision of the relations of production. Right. The kind of potential unequal relations that are behind the things that we use. It is quite interesting to notice to note that sometimes certain types of labor are privileged over others in these particular kinds of ventures. So often people who gathered or picked the raw material, sold the item in the store, packaged the item to be sent to the consumer, specifically, it was bought online. That labor would not be highlighted, but the person kind of sewed or made the physical garment itself, put it together. That labor would be highlighted.
+
+Speaker 1 • 41:37
+Okay, so for Wednesday, we're going to be reading an excerpt from a very famous piece.
+

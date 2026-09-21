@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f9e84a8b75ce4c7",
+        "id": "29e0225aa39547b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2f319124f5d23add",
+            "id": "75c855261d04938a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practice questions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Practice questions"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,18 +179,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f319124f5d23add",
+  "active": "75c855261d04938a",
   "lastOpenFiles": [
+    "HW3.md",
+    "Main Navigation Point.md",
+    "Ph10 - SOP Table Tasks.md",
+    "HW8.md",
+    "Discussion 12.md",
+    "Untitled 1.md",
+    "Practice questions.md",
+    "Untitled.md",
     "HW 2.md",
     "Discussion 3.md",
     "Practice Midterm 1.md",
-    "Practice questions.md",
     "midterm 1.md",
-    "HW3.md",
     "Discussion 2.md",
     "Pasted image 20260208140700.png",
     "Module 1 Notes.md",
-    "Main Navigation Point.md",
     "Untitled"
   ]
 }

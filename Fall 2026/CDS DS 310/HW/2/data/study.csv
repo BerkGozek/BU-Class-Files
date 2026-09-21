@@ -1,0 +1,21 @@
+study_id,researcher_id,title,study_type,status,duration_min,reward_amount,published_at
+200,1,Sleep & Academic Performance,survey,active,15,8.0,2025-01-10
+201,2,Social Media & Mental Health,survey,active,20,13.0,2025-01-15
+202,3,UX of Insighta Platform,interview,active,45,30.0,2025-02-01
+203,4,Climate Change Attitudes,survey,active,10,6.0,2025-01-20
+204,5,Remote Work Productivity,survey,active,25,15.0,2025-01-18
+205,6,Food Choices & Stress,survey,active,12,7.0,2025-02-10
+206,7,Campus Safety Perceptions,survey,active,18,11.0,2025-02-05
+207,8,Exercise & Focus,interview,active,60,40.0,2025-01-25
+208,9,AI Tools in Education,interview,active,30,22.0,2025-02-15
+209,10,Financial Stress in College,survey,active,15,9.0,2025-01-30
+210,11,Gen Z and News Consumption,survey,active,10,6.0,2025-02-20
+211,12,Study Habits & GPA,survey,active,20,12.0,2025-02-08
+212,13,Student Loan Anxiety,survey,active,15,9.0,2025-03-01
+213,14,Coffee & Concentration,survey,paused,10,5.0,2025-01-12
+214,15,Peer Pressure & Decisions,interview,paused,50,35.0,2025-01-22
+215,1,Diversity & Belonging,survey,closed,22,14.0,2025-01-05
+216,2,Commute & Wellbeing,survey,closed,8,4.0,2025-01-08
+217,3,Housing Insecurity,survey,draft,18,10.0,
+218,4,Internship Quality,survey,draft,25,15.0,
+219,5,Online Learning,survey,active,20,13.0,2025-03-05

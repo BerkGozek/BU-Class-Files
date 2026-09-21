@@ -1,0 +1,31 @@
+question_id,study_id,question_text,order_num
+1,200,Have you experienced significant academic stress in the past month?,1
+2,200,Do you use social media more than 2 hours per day?,2
+3,201,Are you 18 years of age or older?,1
+4,201,How many hours of sleep do you get per night on average?,2
+5,201,Do you use social media more than 2 hours per day?,3
+6,202,Are you 18 years of age or older?,1
+7,202,Do you currently hold a part-time or full-time job?,2
+8,202,Have you experienced significant academic stress in the past month?,3
+9,203,How many hours of sleep do you get per night on average?,1
+10,203,Do you use social media more than 2 hours per day?,2
+11,204,Do you currently hold a part-time or full-time job?,1
+12,204,Do you use social media more than 2 hours per day?,2
+13,206,Do you currently hold a part-time or full-time job?,1
+14,206,How many hours of sleep do you get per night on average?,2
+15,206,Do you use social media more than 2 hours per day?,3
+16,210,Do you currently hold a part-time or full-time job?,1
+17,210,Have you experienced significant academic stress in the past month?,2
+18,211,Are you 18 years of age or older?,1
+19,211,How many hours of sleep do you get per night on average?,2
+20,211,Are you currently enrolled as a full-time student?,3
+21,212,Do you currently hold a part-time or full-time job?,1
+22,212,How many hours of sleep do you get per night on average?,2
+23,212,Have you experienced significant academic stress in the past month?,3
+24,214,Have you experienced significant academic stress in the past month?,1
+25,214,Do you currently hold a part-time or full-time job?,2
+26,214,Do you use social media more than 2 hours per day?,3
+27,215,Are you currently enrolled as a full-time student?,1
+28,217,Are you currently enrolled as a full-time student?,1
+29,218,Are you 18 years of age or older?,1
+30,218,Do you currently hold a part-time or full-time job?,2

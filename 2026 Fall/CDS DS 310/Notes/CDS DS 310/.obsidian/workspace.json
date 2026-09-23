@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c52cd91bc1dc7cd6",
+        "id": "0b6ee33451cb51ac",
         "type": "tabs",
         "children": [
           {
-            "id": "b7272968614b24ca",
+            "id": "a9c1ccb0c80bac4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bea9ce6151537a46",
@@ -182,11 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "aceb4d575b1815e7",
+  "active": "a9c1ccb0c80bac4c",
   "lastOpenFiles": [
+    "Notes/Lec4.md",
+    "Notes/Lec5.md",
+    "Notes/Lec6.md",
     "Notes/Lec1.md",
     "Notes/Lec3.md",
-    "Notes/Lec4.md",
     "Note Images/Pasted image 20260915114910.png",
     "Note Images/Pasted image 20260915114855.png",
     "Note Images/Pasted image 20260915114442.png",
